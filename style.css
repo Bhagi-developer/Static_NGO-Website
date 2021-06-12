@@ -112,7 +112,7 @@ header .navbar a:hover{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background:linear-gradient(50deg, rgba(0,0,0,.9), transparent), url('/images/Home\ bg.jpg') no-repeat;
+    background:linear-gradient(50deg, rgba(0,0,0,.9), transparent), url('Home\ bg.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -244,7 +244,7 @@ header .navbar a:hover{
 /* css for donate section */
 
 .donate{
-    background:linear-gradient(rgba(0,0,0,.9),rgba(0,0,0,.1)), url('/images/donate\ bg.jpg') no-repeat;
+    background:linear-gradient(rgba(0,0,0,.9),rgba(0,0,0,.1)), url('donate\ bg.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -484,7 +484,7 @@ header .navbar a:hover{
 /* css for footer section */
 
 .footer{
-    background:url(../images/background-img.jpg) no-repeat;
+    background:url('background-img.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -590,7 +590,7 @@ header .navbar a:hover{
     }
 
     .home{
-        background:linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.7)), url('/images/Home\ bg.jpg') no-repeat;
+        background:linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.7)), url('Home\ bg.jpg') no-repeat;
         background-size: cover;
         background-position: right;
     }
